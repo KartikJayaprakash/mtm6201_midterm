@@ -325,11 +325,6 @@ form button:hover {
     font-size: 4rem;
 }
 
-.fa-map-marker-alt {
-    animation: icon-wiggle 2s 1s infinite;
-}
-
-
 .fa-envelope {
     animation: icon-move 1.5s cubic-bezier(.11,.91,.59,.95) 1s infinite;
 }
